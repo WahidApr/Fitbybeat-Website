@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thank you for your message. It has been sent</name>
+   <tag></tag>
+   <elementGuidId>8164bdd6-c058-408f-89a9-5be3eb3776bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wpcf7-f1104-p1774-o1']/form/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45be0e54-9ba1-4f9e-bb82-298d6409bc17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wpcf7-response-output wpcf7-display-none wpcf7-mail-sent-ok</value>
+      <webElementGuid>faa12982-f2f6-4f5d-a84f-6b9393f97641</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>alert</value>
+      <webElementGuid>1b008047-2581-4b40-88d6-38085c022a47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you for your message. It has been sent.</value>
+      <webElementGuid>0115564b-0420-4833-84e4-b355887a5138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpcf7-f1104-p1774-o1&quot;)/form[@class=&quot;wpcf7-form sent&quot;]/div[@class=&quot;wpcf7-response-output wpcf7-display-none wpcf7-mail-sent-ok&quot;]</value>
+      <webElementGuid>f81d9a01-381f-45e7-9401-3c2ab34e7e2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wpcf7-f1104-p1774-o1']/form/div[3]</value>
+      <webElementGuid>28217bbf-bdec-44cd-af72-2a98a00347a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEND'])[1]/following::div[1]</value>
+      <webElementGuid>db9b0fb4-930f-423e-b5f8-464dfa0cc9c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for your message. It has been sent.'])[1]/following::div[14]</value>
+      <webElementGuid>720d6cdb-ec5c-4054-8259-4af2c2c75f19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect With Us'])[1]/preceding::div[1]</value>
+      <webElementGuid>ec14e2e1-f63f-4df7-9649-d69122aee8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyrights 2019 © Fit by Beat'])[1]/preceding::div[8]</value>
+      <webElementGuid>ad59a908-d4fa-4690-aa99-09b8561acf17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]</value>
+      <webElementGuid>8851fa30-5aa9-4e09-85d4-8d90430e9dc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thank you for your message. It has been sent.' or . = 'Thank you for your message. It has been sent.')]</value>
+      <webElementGuid>bf11cce8-e87c-400f-a843-6323f5008e07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
