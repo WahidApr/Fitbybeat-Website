@@ -3,7 +3,7 @@
    <description></description>
    <name>div_Search results for Yoga</name>
    <tag></tag>
-   <elementGuidId>b3aba247-aba3-4afe-b5f9-01479c274f12</elementGuidId>
+   <elementGuidId>a4996f18-bcb1-47e7-b7b3-441d3a1c26a5</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>f7da2b56-26b5-44cf-b06a-3f65ff01b75a</webElementGuid>
+      <webElementGuid>fd86911f-5a45-4010-9e82-bfb1cf37e10b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>qodef-title-inner</value>
-      <webElementGuid>3c492f9e-32a9-444c-92d5-b697605d198d</webElementGuid>
+      <webElementGuid>c55124c5-93dd-431a-8130-3b87d815070f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
 									Search results for: Yoga
 											
 	    </value>
-      <webElementGuid>564091ca-29db-4124-87d0-696e7c5a1950</webElementGuid>
+      <webElementGuid>8cb9acc8-d549-4ef9-b356-64d31d11ca9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,7 +50,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths&quot;]/body[@class=&quot;search search-results qodef-bmi-calculator-1.2 prowess-core-1.0.1 prowess-ver-1.2 qodef-grid-1300 qodef-light-header qodef-sticky-header-on-scroll-up qodef-dropdown-animate-height qodef-header-standard qodef-menu-area-shadow-disable qodef-menu-area-in-grid-shadow-disable qodef-menu-area-border-disable qodef-menu-area-in-grid-border-disable qodef-logo-area-border-disable qodef-header-vertical-shadow-disable qodef-header-vertical-border-disable qodef-side-menu-slide-from-right qodef-default-mobile-header qodef-sticky-up-mobile-header wpb-js-composer js-comp-ver-5.5.2 vc_responsive qodef-fullscreen-search qodef-search-fade&quot;]/div[@class=&quot;qodef-wrapper&quot;]/div[@class=&quot;qodef-wrapper-inner&quot;]/div[@class=&quot;qodef-content&quot;]/div[@class=&quot;qodef-content-inner&quot;]/div[@class=&quot;qodef-title-holder qodef-standard-type qodef-title-va-window-top&quot;]/div[@class=&quot;qodef-title-wrapper&quot;]/div[@class=&quot;qodef-title-inner&quot;]</value>
-      <webElementGuid>393bbc88-a242-402b-8e1e-e1c7c8d374fd</webElementGuid>
+      <webElementGuid>6847d6da-3e78-42e9-ba21-e1fcbf9eeb6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[3]/following::div[5]</value>
-      <webElementGuid>f9b44b50-c9ba-4d3a-a425-cb5180b27708</webElementGuid>
+      <webElementGuid>7d2349bd-ef4d-42d7-beaa-392091155201</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='News'])[3]/following::div[5]</value>
-      <webElementGuid>03d2b7f5-422b-4b54-8736-835c1a9d3baa</webElementGuid>
+      <webElementGuid>f3f66a00-c8af-4b8b-9856-1308e5702a0c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='New search:'])[1]/preceding::div[2]</value>
-      <webElementGuid>cef2393c-0187-469a-a684-4262fcfa5337</webElementGuid>
+      <webElementGuid>949bc786-62b4-47a8-963d-afd0f8919abc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/div/div/div</value>
-      <webElementGuid>a12f13a8-28dc-46f6-b7b2-cc205123ff7a</webElementGuid>
+      <webElementGuid>28122dbd-3add-47cd-9f08-ae26b78bfda6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
 									Search results for: Yoga
 											
 	    ')]</value>
-      <webElementGuid>ef4f592e-1be4-4ab1-a2db-05ac00deb2de</webElementGuid>
+      <webElementGuid>df080cba-0c41-4568-9f5f-49297b281c5b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_infofitbybeat.com_qodef-grid-col-12</name>
+   <tag></tag>
+   <elementGuidId>aff6e231-d49c-468d-9925-ea31c62ec5e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wpcf7-f1104-p1774-o1']/form/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.qodef-grid-row.mkd-grid-tiny-gutter > div.qodef-grid-col-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e08b31b6-aff2-4862-b104-79ece2bf3177</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qodef-grid-col-12</value>
+      <webElementGuid>16720be5-4057-4d39-9637-e7231d500845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wpcf7-f1104-p1774-o1&quot;)/form[@class=&quot;wpcf7-form&quot;]/div[2]/div[@class=&quot;qodef-grid-row mkd-grid-tiny-gutter&quot;]/div[@class=&quot;qodef-grid-col-12&quot;]</value>
+      <webElementGuid>b5509a07-e678-4680-bf76-3b1f52e839a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wpcf7-f1104-p1774-o1']/form/div[2]/div/div</value>
+      <webElementGuid>dfd19a31-1656-49f9-894e-7a211df3fa5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info@fitbybeat.com'])[1]/following::div[10]</value>
+      <webElementGuid>fc614c6d-3a84-4683-8338-c18ea2233881</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMail'])[1]/following::div[12]</value>
+      <webElementGuid>c8a7580e-fb67-4cdf-bec0-0c1242f960d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEND'])[1]/preceding::div[7]</value>
+      <webElementGuid>cc3a5117-8ebc-4e3f-bdbd-25bb2a886356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect With Us'])[1]/preceding::div[11]</value>
+      <webElementGuid>73325d36-fda9-4674-aa16-8ae166031dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div</value>
+      <webElementGuid>e9def1e6-58ab-4ba8-a09a-4a82c1e960ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wpcf7-f1104-p1774-o1']/form/div[2]/div[3]/div</value>
+      <webElementGuid>a3ca6c2e-955f-4eae-a683-d86c4d135018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info@fitbybeat.com'])[1]/following::div[16]</value>
+      <webElementGuid>dc68cdce-5abc-4677-80f3-db0402e654d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMail'])[1]/following::div[18]</value>
+      <webElementGuid>f4e9d557-41cf-484f-9371-1cc56b6b2824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEND'])[1]/preceding::div[1]</value>
+      <webElementGuid>16434b82-fec8-45ec-8949-00e518551d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Connect With Us'])[1]/preceding::div[5]</value>
+      <webElementGuid>6a937867-315c-49a8-9f86-b80764a6a8cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>79f2f6cc-2e17-4ad8-a93e-ff55fc79fdbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

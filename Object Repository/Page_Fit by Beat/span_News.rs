@@ -3,7 +3,7 @@
    <description></description>
    <name>span_News</name>
    <tag></tag>
-   <elementGuidId>b42cf62e-0f74-47d2-9f80-9147c8ac1830</elementGuidId>
+   <elementGuidId>2cbab0f1-e856-4022-8db7-82a99749bbd3</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>63235fa8-5ade-48af-848c-af364889de80</webElementGuid>
+      <webElementGuid>9eef4777-2e56-4997-ba3b-7fb8041ae53c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>item_text</value>
-      <webElementGuid>12b99b40-49f0-4111-97ae-19277234292d</webElementGuid>
+      <webElementGuid>7c83b11f-0308-41a5-a233-1427c4195a4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>News</value>
-      <webElementGuid>6a377314-7d64-422a-ab92-6d7c3c2fe4b3</webElementGuid>
+      <webElementGuid>cd6f3a01-5977-4382-bb3e-01fec509e3f9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nav-menu-item-3468&quot;)/a[1]/span[@class=&quot;item_outer&quot;]/span[@class=&quot;item_text&quot;]</value>
-      <webElementGuid>81e0465c-ae28-4644-a700-2b991db6ef77</webElementGuid>
+      <webElementGuid>3caf4fd2-1c88-4603-bc44-4bec2256b81c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='nav-menu-item-3468']/a/span/span</value>
-      <webElementGuid>4f477c8e-4675-4f79-bdf7-0c07f47f0afb</webElementGuid>
+      <webElementGuid>2c46982d-bc1f-420d-ba77-5b634f38d4c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Classes'])[1]/following::span[2]</value>
-      <webElementGuid>59ba7182-20b9-4128-a4aa-3cb46924c320</webElementGuid>
+      <webElementGuid>d592d2d0-f4ae-466e-8e09-4199fc9e5441</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[1]/following::span[4]</value>
-      <webElementGuid>aba69620-d217-41d7-aa65-0924779d97e1</webElementGuid>
+      <webElementGuid>a000e849-0651-45e4-9b8b-46a7298b28f1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::span[1]</value>
-      <webElementGuid>da12ff12-280b-452f-ba49-ef23c0004795</webElementGuid>
+      <webElementGuid>9d2266e6-731c-4104-8784-5212605956a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::span[5]</value>
-      <webElementGuid>9825f440-d32a-4c80-b3a9-1d974da403ff</webElementGuid>
+      <webElementGuid>bab60889-718b-4053-8e84-d5872aab1102</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[5]/a/span/span</value>
-      <webElementGuid>0bd9c2f9-a873-4f49-a0e1-1e49cd7226fc</webElementGuid>
+      <webElementGuid>027e93ad-53b3-4020-8e83-028293dd86f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'News' or . = 'News')]</value>
-      <webElementGuid>b6d3c7df-51a7-4421-b7e2-eb0d1968df65</webElementGuid>
+      <webElementGuid>f93f2bcc-3ec7-4d08-81ad-c3f8ce10e3dc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

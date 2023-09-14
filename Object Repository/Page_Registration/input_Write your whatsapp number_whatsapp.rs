@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Write your whatsapp number_whatsapp</name>
    <tag></tag>
-   <elementGuidId>dcd61711-2bb5-4f5f-973e-fc2ed1975e52</elementGuidId>
+   <elementGuidId>1d972881-c0ab-46b3-a369-e1e57b2e01f6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>input[name=&quot;whatsapp&quot;]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@name='whatsapp']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;whatsapp&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>edf5f030-d249-4673-8a08-5df74d8fa978</webElementGuid>
+      <webElementGuid>0de359d0-f050-4b6f-812d-c5522cf1f63a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>3ab8d9ae-3552-40ae-a78a-eb91062fdfa9</webElementGuid>
+      <webElementGuid>b32bcce8-15ed-4a6f-b905-d13e559ef790</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control-border</value>
-      <webElementGuid>3b80f103-7f67-427b-9bfc-cd183efc8407</webElementGuid>
+      <webElementGuid>57250089-0070-4afc-bda8-f1a0d300ea09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>whatsapp</value>
-      <webElementGuid>7be70ae2-1682-449a-a66f-3f4f2abacea4</webElementGuid>
+      <webElementGuid>06ca10c4-94ca-47a5-8f52-c68fa987c82d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;proj-landing&quot;)/form[1]/div[@class=&quot;form-group proj-textleft&quot;]/div[@class=&quot;proj-form-instance&quot;]/div[@class=&quot;proj-form-instance&quot;]/input[@class=&quot;form-control form-control-border&quot;]</value>
-      <webElementGuid>3c9872b5-e7b4-4b77-a906-aed9874a1eb1</webElementGuid>
+      <webElementGuid>619ac62d-c8b8-4d67-bd2c-2c2c069c5110</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='whatsapp']</value>
-      <webElementGuid>af2a160b-7c68-42db-9f51-c57e2c5c94fe</webElementGuid>
+      <webElementGuid>f418fc00-b4a9-43f6-a013-a232c20cb137</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='proj-landing']/form/div[3]/div/div[2]/input</value>
-      <webElementGuid>099701f2-4e17-474d-8f08-ccb8d247c539</webElementGuid>
+      <webElementGuid>659eb994-7509-416d-9b17-812a5440da77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/input</value>
-      <webElementGuid>18e2ed9f-e35e-47dd-9fff-fe59f93ea024</webElementGuid>
+      <webElementGuid>036ea4de-c515-4ea5-9a5b-a242af47f04a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'number' and @name = 'whatsapp']</value>
-      <webElementGuid>f7ff1e81-c6de-40c3-ac1e-601df536c5ea</webElementGuid>
+      <webElementGuid>8915c008-307d-4b5b-81b5-802e6e613e99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

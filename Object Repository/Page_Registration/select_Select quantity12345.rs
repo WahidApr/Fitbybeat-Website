@@ -3,15 +3,15 @@
    <description></description>
    <name>select_Select quantity12345</name>
    <tag></tag>
-   <elementGuidId>d71f722a-63ba-4079-96ed-8ca1ec656fee</elementGuidId>
+   <elementGuidId>e7273e2e-b4af-43ca-a33d-452172217fb5</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#quantity</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='quantity']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#quantity</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>f500bfb4-adee-4c8d-81ce-6339c12255ce</webElementGuid>
+      <webElementGuid>c87261cc-44f1-4863-8232-3dd31032e095</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control-border</value>
-      <webElementGuid>de794973-3922-4b36-b231-bfd1b7f00243</webElementGuid>
+      <webElementGuid>c2362a8c-b401-4375-8fe7-48ccb3497ed2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>name</name>
       <type>Main</type>
       <value>quantity</value>
-      <webElementGuid>d1da9ff1-9007-4d17-a2f3-0084436bca48</webElementGuid>
+      <webElementGuid>3c7c0eb4-b612-4f22-8c5e-4a39af46db65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>quantity</value>
-      <webElementGuid>2b57d50d-8691-4998-bd8e-f05a34570aba</webElementGuid>
+      <webElementGuid>7ec87af5-8301-4a70-925b-5b73a3690cba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select quantity1&quot;2&quot;3&quot;4&quot;5&quot;</value>
-      <webElementGuid>4b7a02e8-9748-4ad6-8d72-ecadcd63d898</webElementGuid>
+      <webElementGuid>d483a067-5fe8-40de-a541-532a2fe8d979</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;quantity&quot;)</value>
-      <webElementGuid>f3660e27-4e41-4d56-ba51-c27b6ceae287</webElementGuid>
+      <webElementGuid>0b9572f1-9508-4035-a0c1-8d35f5b0afd0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='quantity']</value>
-      <webElementGuid>1cc55f2a-c3d9-42ca-9827-e5210090f386</webElementGuid>
+      <webElementGuid>ffbf7517-f49a-46cf-9077-810afb2223be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='proj-landing']/form/div[4]/div/select</value>
-      <webElementGuid>649f617d-43ae-4fba-b4e3-4fc6443737cd</webElementGuid>
+      <webElementGuid>e0692e4c-c7db-426a-844b-fe5b44858993</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity'])[1]/following::select[1]</value>
-      <webElementGuid>d0568641-eb08-479c-a30f-616ce41e2261</webElementGuid>
+      <webElementGuid>f07f38e1-84f3-4c97-a190-3544f92f0bff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pick available hour'])[1]/following::select[2]</value>
-      <webElementGuid>d886052d-3d54-4e9a-9a13-8352574bb565</webElementGuid>
+      <webElementGuid>0a64a872-a868-40f9-9703-ceb8dc155da3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::select[1]</value>
-      <webElementGuid>56b0d251-3b31-412f-a3ba-b84ba8bbb17c</webElementGuid>
+      <webElementGuid>0cf4216a-1cb6-4778-9df8-c6191cdc0075</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='&quot;']/parent::*</value>
-      <webElementGuid>6f8ec43b-fc84-4a0e-9586-65d81c99a44e</webElementGuid>
+      <webElementGuid>a152b281-2b4a-426a-aff8-b303da92851b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/select</value>
-      <webElementGuid>b1c97369-db05-46b7-8686-600a94ec7f31</webElementGuid>
+      <webElementGuid>ee35b6a9-91ca-4830-9aeb-f8bcc3bf8a5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@name = 'quantity' and @id = 'quantity' and (text() = 'Select quantity1&quot;2&quot;3&quot;4&quot;5&quot;' or . = 'Select quantity1&quot;2&quot;3&quot;4&quot;5&quot;')]</value>
-      <webElementGuid>3e334ce4-42c4-4f6c-a177-bb6dcf2e6a4e</webElementGuid>
+      <webElementGuid>88c85c30-89d7-4439-800e-18cff644b596</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

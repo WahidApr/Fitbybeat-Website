@@ -3,15 +3,15 @@
    <description></description>
    <name>p_Success</name>
    <tag></tag>
-   <elementGuidId>3146ea3b-be41-4578-ab9e-f0d18cdc5218</elementGuidId>
+   <elementGuidId>30d24755-51a7-4783-94fa-97e26666484c</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>p</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='proj-landing']/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>71708f13-4a3d-43ee-af77-6b9f43bb3857</webElementGuid>
+      <webElementGuid>0459b2c4-c862-4bd1-a8f6-dcdc4968b724</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Success</value>
-      <webElementGuid>0368ec80-c588-4cb7-84fc-1991dd3babdd</webElementGuid>
+      <webElementGuid>76a77d0e-1351-4e9b-a63e-d1101c6b702c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;proj-landing&quot;)/div[@class=&quot;well&quot;]/div[@class=&quot;proj-heading4 proj-textblue proj-margin10&quot;]/p[1]</value>
-      <webElementGuid>cbe6f395-cc54-48b7-9315-c5c6b919685a</webElementGuid>
+      <webElementGuid>a3ed7980-fcd5-489a-bc22-a7a9eac6bb23</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='proj-landing']/div/div/p</value>
-      <webElementGuid>c6cb6084-9611-47e2-894e-b4b030b9faf3</webElementGuid>
+      <webElementGuid>725e4c88-13f7-4547-a190-b957b6d6044f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Class'])[1]/preceding::p[2]</value>
-      <webElementGuid>0cdcefb0-55b6-4a99-84ed-50b235e149d5</webElementGuid>
+      <webElementGuid>e8fffa26-28b4-4179-8d93-63b4a6699387</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Judo'])[1]/preceding::p[2]</value>
-      <webElementGuid>103ded6c-60c7-4a2c-b45b-8aee5222a8c2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yin Yoga'])[1]/preceding::p[2]</value>
+      <webElementGuid>399f90ca-285a-4db3-aab0-370c79c19199</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Success']/parent::*</value>
-      <webElementGuid>472d5641-e851-4934-b6db-2eb3966c23f3</webElementGuid>
+      <webElementGuid>ea2edbe3-1537-4266-ad82-9836f09a949a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//p</value>
-      <webElementGuid>b28b7ba8-ef52-4849-8558-87b401933859</webElementGuid>
+      <webElementGuid>e96d987a-f318-427d-a0cf-fe963f0310e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//p[(text() = 'Success' or . = 'Success')]</value>
-      <webElementGuid>df6a3f50-c529-440f-9289-902c00fde892</webElementGuid>
+      <webElementGuid>b3f54dde-e85c-46dc-80dd-600aef9eae16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

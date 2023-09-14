@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Follow Us_qodef-icon-ion-icon ion-android-search</name>
+   <tag></tag>
+   <elementGuidId>70985aa3-4663-4736-bf98-b3b43ba46861</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>08101023-fa3d-4d56-a783-d3a939d29090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qodef-icon-ion-icon ion-android-search </value>
+      <webElementGuid>c838054c-3072-497f-905e-5cdb6db8623c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths&quot;]/body[@class=&quot;search search-results paged paged-2 search-paged-2 qodef-bmi-calculator-1.2 prowess-core-1.0.1 prowess-ver-1.2 qodef-grid-1300 qodef-light-header qodef-sticky-header-on-scroll-up qodef-dropdown-animate-height qodef-header-standard qodef-menu-area-shadow-disable qodef-menu-area-in-grid-shadow-disable qodef-menu-area-border-disable qodef-menu-area-in-grid-border-disable qodef-logo-area-border-disable qodef-header-vertical-shadow-disable qodef-header-vertical-border-disable qodef-side-menu-slide-from-right qodef-default-mobile-header qodef-sticky-up-mobile-header wpb-js-composer js-comp-ver-5.5.2 vc_responsive qodef-fullscreen-search qodef-search-fade qodef-fullscreen-search-opened qodef-search-fade-in&quot;]/div[@class=&quot;qodef-wrapper&quot;]/div[@class=&quot;qodef-wrapper-inner&quot;]/div[@class=&quot;qodef-fullscreen-search-holder qodef-animate&quot;]/div[@class=&quot;qodef-fullscreen-search-table&quot;]/div[@class=&quot;qodef-fullscreen-search-cell&quot;]/div[@class=&quot;qodef-fullscreen-search-inner&quot;]/form[@class=&quot;qodef-fullscreen-search-form&quot;]/div[@class=&quot;qodef-form-holder&quot;]/div[@class=&quot;qodef-form-holder-inner&quot;]/button[@class=&quot;qodef-search-submit qodef-search-submit-icon-pack&quot;]/i[@class=&quot;qodef-icon-ion-icon ion-android-search&quot;]</value>
+      <webElementGuid>aeaa652e-f9bc-4233-97ab-39b00a547378</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>1f060147-d418-48c4-94bf-e9f453a26d70</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

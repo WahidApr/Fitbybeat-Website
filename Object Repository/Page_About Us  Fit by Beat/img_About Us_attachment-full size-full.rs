@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_About Us_attachment-full size-full</name>
+   <tag></tag>
+   <elementGuidId>06f58810-c933-46a2-8bd8-7bba7fc12e02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,'https://fitbybeat.com/wp-content/uploads/2019/04/about-02.jpg')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.qodef-si-inner > img.attachment-full.size-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>399b252d-2840-446a-979d-c6f30307d422</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>800</value>
+      <webElementGuid>47b85fa5-d076-4ac3-b8fc-1c5c72d002cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>600</value>
+      <webElementGuid>d7ac75cc-5ac3-4940-922f-fbff697d4d20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://fitbybeat.com/wp-content/uploads/2019/04/about-02.jpg</value>
+      <webElementGuid>b4d733e7-fdf2-4727-b2bb-3e5ecbfa16f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>attachment-full size-full</value>
+      <webElementGuid>af73ebf6-4ecb-419f-ba73-69473339ad2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://fitbybeat.com/wp-content/uploads/2019/04/about-02.jpg 800w, https://fitbybeat.com/wp-content/uploads/2019/04/about-02-300x225.jpg 300w, https://fitbybeat.com/wp-content/uploads/2019/04/about-02-768x576.jpg 768w</value>
+      <webElementGuid>d8fa35e1-e948-460b-b16c-b88a2d16c6e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 800px) 100vw, 800px</value>
+      <webElementGuid>60a0a7a9-2a12-4965-b7b8-d221db090dae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js flexbox flexboxlegacy canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients no-cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio svg inlinesvg svgclippaths js_active  vc_desktop  vc_transform  vc_transform  vc_transform&quot;]/body[@class=&quot;page-template page-template-full-width page-template-full-width-php page page-id-1570 qodef-bmi-calculator-1.2 prowess-core-1.0.1 prowess-ver-1.2 qodef-grid-1300 qodef-light-header qodef-sticky-header-on-scroll-up qodef-dropdown-animate-height qodef-header-standard qodef-menu-area-shadow-disable qodef-menu-area-in-grid-shadow-disable qodef-menu-area-border-disable qodef-menu-area-in-grid-border-disable qodef-logo-area-border-disable qodef-header-vertical-shadow-disable qodef-header-vertical-border-disable qodef-side-menu-slide-from-right qodef-default-mobile-header qodef-sticky-up-mobile-header wpb-js-composer js-comp-ver-5.5.2 vc_responsive qodef-fullscreen-search qodef-search-fade&quot;]/div[@class=&quot;qodef-wrapper&quot;]/div[@class=&quot;qodef-wrapper-inner&quot;]/div[@class=&quot;qodef-content&quot;]/div[@class=&quot;qodef-content-inner&quot;]/div[@class=&quot;qodef-full-width&quot;]/div[@class=&quot;qodef-full-width-inner&quot;]/div[@class=&quot;qodef-grid-row&quot;]/div[@class=&quot;qodef-page-content-holder qodef-grid-col-12&quot;]/div[@class=&quot;qodef-row-grid-section-wrapper&quot;]/div[@class=&quot;qodef-row-grid-section&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid qodef-grid_line_dual&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;vc_row wpb_row vc_inner vc_row-fluid vc_custom_1549870262834&quot;]/div[@class=&quot;wpb_column vc_column_container vc_col-sm-12&quot;]/div[@class=&quot;vc_column-inner&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;qodef-elements-holder   qodef-two-columns  qodef-responsive-mode-1024&quot;]/div[@class=&quot;qodef-eh-item&quot;]/div[@class=&quot;qodef-eh-item-inner&quot;]/div[@class=&quot;qodef-eh-item-content qodef-eh-custom-1121&quot;]/div[@class=&quot;qodef-single-image-holder&quot;]/div[@class=&quot;qodef-si-inner&quot;]/img[@class=&quot;attachment-full size-full&quot;]</value>
+      <webElementGuid>7246e51c-3486-418f-bc77-af10f0fd5262</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://fitbybeat.com/wp-content/uploads/2019/04/about-02.jpg')]</value>
+      <webElementGuid>aefa2a50-6052-424d-8d68-f2c3541d2875</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/img</value>
+      <webElementGuid>2559a162-cb58-41cb-8e02-d1d97e0ae4f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://fitbybeat.com/wp-content/uploads/2019/04/about-02.jpg']</value>
+      <webElementGuid>71f0b8dc-c5bf-4d2d-a6fd-ce9ada597741</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

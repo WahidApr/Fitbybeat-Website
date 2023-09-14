@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Since starting to work out here, I am muc_f43da6</name>
+   <tag></tag>
+   <elementGuidId>05768049-5c72-406c-8f58-9eed16446358</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='qodef-testimonials-464']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.qodef-testimonial-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>64a588e8-9b8e-45fb-995a-4442b7cf356c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>qodef-testimonial-text</value>
+      <webElementGuid>6d322503-5d05-4a83-9662-07fbc453f0b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Since starting to work out here, I am much more aware of my body, how I move and my posture. As a result, I no longer take pain medication for my back!</value>
+      <webElementGuid>409d788f-978a-4400-a006-c80715679e75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;qodef-testimonials-464&quot;)/div[@class=&quot;qodef-testimonial-text-holder&quot;]/p[@class=&quot;qodef-testimonial-text&quot;]</value>
+      <webElementGuid>ab1d596a-e06e-4b43-8919-8e914d6a31ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='qodef-testimonials-464']/div/p</value>
+      <webElementGuid>92dec707-1368-4d68-816e-8db5ea43a022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::p[1]</value>
+      <webElementGuid>5c28d0ee-4046-48c6-b810-9748a9513cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get strong today'])[1]/following::p[1]</value>
+      <webElementGuid>b37ddc20-a5b4-4e35-b4d8-3c08d05248be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sandy'])[1]/preceding::p[1]</value>
+      <webElementGuid>b4040915-ef50-4908-b50b-c6590d234585</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT Staff'])[1]/preceding::p[1]</value>
+      <webElementGuid>ef67bc84-7d5b-47d5-aea3-ea072f8784c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Since starting to work out here, I am much more aware of my body, how I move and my posture. As a result, I no longer take pain medication for my back!']/parent::*</value>
+      <webElementGuid>485275e6-db53-40fa-a1f9-50fcff9f15fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>36d85495-ccad-4fca-a8d9-e0b31baf7a7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Since starting to work out here, I am much more aware of my body, how I move and my posture. As a result, I no longer take pain medication for my back!' or . = 'Since starting to work out here, I am much more aware of my body, how I move and my posture. As a result, I no longer take pain medication for my back!')]</value>
+      <webElementGuid>bd8c9c33-13f4-4b04-a8f7-4c814fdb4ec4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

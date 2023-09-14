@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select an activity factor</name>
+   <tag></tag>
+   <elementGuidId>13faee2d-5510-4947-816c-996942a0edc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-activity_level-3a-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-activity_level-3a-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4cc04ea7-a4c8-41b5-a9cf-22056a912e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>26353f5d-e510-4f99-97cd-e04bb9debb7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-activity_level-3a-container</value>
+      <webElementGuid>fc0cbf5b-d331-455a-abaa-b7b7d8577aa0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Select an activity factor:</value>
+      <webElementGuid>7993f20d-e258-4268-8abf-34a5533de022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select an activity factor:</value>
+      <webElementGuid>b3f0b8f9-a9ba-45fd-b8a0-a00a44d00e23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-activity_level-3a-container&quot;)</value>
+      <webElementGuid>84237123-00ed-4a01-9b2b-0c118fb9c2b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-activity_level-3a-container']</value>
+      <webElementGuid>4f8ecb74-c60d-4357-a3da-07853bb8451e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Female'])[2]/following::span[6]</value>
+      <webElementGuid>2deb647e-bb42-4af6-8313-cb593d992338</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate Your BMI'])[1]/following::span[10]</value>
+      <webElementGuid>a4ed5145-e2e8-4a63-9fe2-4aa6cfca29ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate'])[1]/preceding::span[3]</value>
+      <webElementGuid>05f3d588-edf2-4e36-babf-dadf9babdad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Timetable'])[1]/preceding::span[9]</value>
+      <webElementGuid>6524b693-a043-4877-bd81-f41e4854f5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span/span/span/span</value>
+      <webElementGuid>c90b9e57-e75c-4ff5-9b26-6d38ef3c745c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-activity_level-3a-container' and @title = 'Select an activity factor:' and (text() = 'Select an activity factor:' or . = 'Select an activity factor:')]</value>
+      <webElementGuid>6c4cf957-77cf-4d20-ad7d-8689662db48a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

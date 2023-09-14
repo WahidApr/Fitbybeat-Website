@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Little or no Exercise desk job</name>
+   <tag></tag>
+   <elementGuidId>f851b416-15da-4f39-8648-f1d2f5479e90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='select2-activity_level-3a-container']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select2-activity_level-3a-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>38428571-8d3b-4d92-9ca9-a9660213f60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__rendered</value>
+      <webElementGuid>43c4c2c9-72ff-4c5d-9462-de0235457acf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-activity_level-3a-container</value>
+      <webElementGuid>690868d9-d590-474a-90e4-1e1773c742bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Little or no Exercise/ desk job</value>
+      <webElementGuid>d9a1c641-e38a-4685-958e-f6e30310c379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Little or no Exercise/ desk job</value>
+      <webElementGuid>da10eee0-e661-49fa-8639-cc1ef36ef935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-activity_level-3a-container&quot;)</value>
+      <webElementGuid>a90666fd-0cd5-42ad-bbcb-284e814dc842</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='select2-activity_level-3a-container']</value>
+      <webElementGuid>0fd60d7e-1e73-45c4-8908-08c93ca493a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Male'])[2]/following::span[6]</value>
+      <webElementGuid>163911d6-19be-4d2f-a3bc-8c308b415aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate Your BMI'])[1]/following::span[10]</value>
+      <webElementGuid>571312fe-efff-4c0f-8549-f9bc26cbf133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate'])[1]/preceding::span[3]</value>
+      <webElementGuid>327571d7-365b-42a2-88ba-18daca1f408e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span/span/span/span</value>
+      <webElementGuid>ec35f950-08b5-44b2-ac15-9183ba19827b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'select2-activity_level-3a-container' and @title = 'Little or no Exercise/ desk job' and (text() = 'Little or no Exercise/ desk job' or . = 'Little or no Exercise/ desk job')]</value>
+      <webElementGuid>9f6d2d21-ebe6-46f4-815d-44eb97e0a0b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>span_About Us</name>
    <tag></tag>
-   <elementGuidId>cded432d-f01f-4cee-8742-cb608f9883a8</elementGuidId>
+   <elementGuidId>958efdf4-41d5-4609-b925-032954540620</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#nav-menu-item-3467 > a > span.item_outer > span.item_text</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//li[@id='nav-menu-item-3467']/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-menu-item-3467 > a > span.item_outer > span.item_text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4c6fb038-138a-430b-9866-974607b9d1be</webElementGuid>
+      <webElementGuid>a1b97d5a-dd9d-4834-8b82-a3792c4adbab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>item_text</value>
-      <webElementGuid>9254001a-2fdc-4bc8-be33-89a143e2c112</webElementGuid>
+      <webElementGuid>799c4e69-20cd-4eeb-a305-ffc06c6bd7ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>About Us</value>
-      <webElementGuid>a55a5527-a29c-4ea6-88f7-246f233386be</webElementGuid>
+      <webElementGuid>5f5dbb31-131c-4b73-8f02-88f5c29cd433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;nav-menu-item-3467&quot;)/a[1]/span[@class=&quot;item_outer&quot;]/span[@class=&quot;item_text&quot;]</value>
-      <webElementGuid>747fdc8a-cde9-4916-9c16-57b8d8183351</webElementGuid>
+      <webElementGuid>bd297b8b-699b-45c6-8952-466a291bbe8b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//li[@id='nav-menu-item-3467']/a/span/span</value>
-      <webElementGuid>88af05fc-b9e4-40dd-b160-73aa25e9d407</webElementGuid>
+      <webElementGuid>57a0e897-91cd-40a5-917e-0a748f4e538e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::span[2]</value>
-      <webElementGuid>0dafeb78-91d1-42ed-bc46-521688c402cc</webElementGuid>
+      <webElementGuid>1cdb2969-1af0-4446-bed0-0d8ea20af636</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Follow Us'])[1]/following::span[6]</value>
-      <webElementGuid>d66170e9-8998-4b33-8ab3-a041c658f4d2</webElementGuid>
+      <webElementGuid>6c045b20-4415-4876-9b96-e7908c61ac3e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[1]/preceding::span[1]</value>
-      <webElementGuid>6796a234-f5d1-40a7-bbdc-ba5ae7aabf9f</webElementGuid>
+      <webElementGuid>59843ab2-c8ac-4c36-9eb1-3eb38ccab03a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Classes'])[1]/preceding::span[3]</value>
-      <webElementGuid>971d088a-c9f3-4e7d-868f-6472f6d289aa</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='About Us']/parent::*</value>
-      <webElementGuid>3ab9e2d0-3296-4352-a1bc-10207e739033</webElementGuid>
+      <webElementGuid>48e9f375-452a-4c9e-a468-cbc3aa2db0c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a/span/span</value>
-      <webElementGuid>13b48f73-f319-4366-b82a-016fcc459925</webElementGuid>
+      <webElementGuid>e049f9a7-173f-4e88-81d5-906783db7ffc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'About Us' or . = 'About Us')]</value>
-      <webElementGuid>e4460832-7f4c-48b4-8690-133c2fbd8987</webElementGuid>
+      <webElementGuid>b242f887-1a77-4cb8-ad6c-3e36d611f2a1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
