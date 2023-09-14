@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_News</name>
+   <tag></tag>
+   <elementGuidId>9ec3afc9-8976-4a36-b76e-94eb7c0b5ec5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-menu-item-3468 > a > span.item_outer > span.item_text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='nav-menu-item-3468']/a/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>136952e3-4c82-4a21-8284-6bf6fd119104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item_text</value>
+      <webElementGuid>62704cfc-cb90-4d34-8ffd-957b423a3f7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>News</value>
+      <webElementGuid>17e02e8e-6cc3-4a48-9f63-087bdf9f0cc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-menu-item-3468&quot;)/a[1]/span[@class=&quot;item_outer&quot;]/span[@class=&quot;item_text&quot;]</value>
+      <webElementGuid>054d6d83-1008-42f0-b9a8-13d8093e5704</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='nav-menu-item-3468']/a/span/span</value>
+      <webElementGuid>a9662059-e230-4138-868e-ef4f463c2209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classes'])[1]/following::span[2]</value>
+      <webElementGuid>ec9a389e-8be1-4e12-a1fa-e75f432cf47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Schedule'])[1]/following::span[4]</value>
+      <webElementGuid>1765128b-3ed2-4a4a-8961-34cb216b94b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Us'])[1]/preceding::span[1]</value>
+      <webElementGuid>706fc547-9436-49e5-98a4-46e01a143c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::span[5]</value>
+      <webElementGuid>5e9d94f9-0f16-4492-85df-14c165d9fac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a/span/span</value>
+      <webElementGuid>8afb560e-db3f-4c9e-bba0-d38b492711ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'News' or . = 'News')]</value>
+      <webElementGuid>3cefbea0-9a37-4a54-8632-199f763d3b57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
